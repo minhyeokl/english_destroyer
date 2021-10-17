@@ -1,4 +1,4 @@
-# English Destoryer
+# English Destroyer
 Not [Canadian Destroyer](https://www.youtube.com/watch?v=IMgAeCeNcfo)...
 
 ## 다운로드
