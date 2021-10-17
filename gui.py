@@ -1,5 +1,6 @@
 import main
 
+import docx
 import re
 import sys
 from PyQt5.QtWidgets import (QApplication, QWidget, QGridLayout, QLabel, QLineEdit, QPushButton, QFileDialog, QMessageBox, QListView)
