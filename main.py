@@ -22,7 +22,8 @@ def destroy_english(filename, safe_styles):
 
     for para in doc.paragraphs:
         if re.search('[가-힇]', para.text) == None and \
-           para.style.name not in safe_styles:
+           para.style.name not in safe_styles and \
+           para.text != '' :
             if '</>' == para.text.strip():
                 continue
             
